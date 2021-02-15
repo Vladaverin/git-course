@@ -1,5 +1,18 @@
-# Git and Github course
+# Git and Github изучение фор ми
 
-Crash course for git
+git init  - добавление в проект гита
+git status - проверка изменений на локальном репозитории
+git add -A - добавление всех изменений
+git branch - ветки, которое есть в проекте
+git checkout название - переход на другую ветку
+git checkout -b название - создание и переход на другую ветку
+git bracnh -D название - удаление ветки
+git merge название - соединение проекта из двух веток
+git push - внесение изменений в проекте на сервере
+git push -u origin master - вненсение изменений на сервер (первое)
+git commit -m "название" - коммит проекта
+git config --global user.name (наш ник) - изменение или просмотр логина
+git config --global user.email (наш мэйл) - изменение или просмотр мыла
+git remote add origin (ссылка) - привязка удаленного репозитория к локальному
 
-zalil novoe izmenenie
+
